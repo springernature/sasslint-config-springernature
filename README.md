@@ -14,7 +14,12 @@ This package requires `sass-lint` version 1.12 or greater.
 npm install --save-dev sass-lint
 ```
 
-2. Add the `sasslintConfig` option to your `package.json` file, and point it to the shared `.sass-lint.yml`
+2. Install this `sasslint-config` to your devDependencies
+```
+npm install --save-dev @springernature/sasslint-config
+```
+
+3. Add the `sasslintConfig` option to your `package.json` file, and point it to the shared `.sass-lint.yml`
 
 ```json
 {
@@ -24,7 +29,7 @@ npm install --save-dev sass-lint
 }
 ```
 
-3. Run `sass-lint` without specifiying a config
+4. Run `sass-lint` without specifiying a config
 
 ```
 sass-lint './scss/*.scss'
