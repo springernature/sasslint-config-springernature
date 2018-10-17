@@ -1,0 +1,19 @@
+{
+  "name": "@springernature/sasslint-config",
+  "version": "0.1.0",
+  "description": "Sass Lint shareable config used at Springer Nature",
+  "license": "",
+  "repository": "springernature/sasslint-config-springernature",
+  "homepage": "https://github.com/springernature/sasslint-config-springernature",
+  "bugs": "https://github.com/springernature/sasslint-config-springernature/issues",
+  "author": "Springer Nature",
+  "keywords": [
+    "springer nature",
+    "sass",
+    "sass-lint",
+    "lint",
+    "linter",
+    "code style",
+    "static analysis"
+  ]
+}
