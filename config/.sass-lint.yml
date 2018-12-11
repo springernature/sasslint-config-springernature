@@ -38,12 +38,10 @@ rules:
     function-name-format:
         - 2
         -
-            allow-leading-underscore: false
             convention: hyphenatedlowercase
     mixin-name-format:
         - 2
         -
-            allow-leading-underscore: false
             convention: hyphenatedlowercase
 
     # Rules
