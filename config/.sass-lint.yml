@@ -66,6 +66,8 @@ rules:
     extends-before-declarations: 2
     mixins-before-declarations:
         - 2
+        -
+          exclude: ['media-query']
 
     # Units
     no-invalid-hex: 2
