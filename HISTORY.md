@@ -1,5 +1,9 @@
 # History
 
+## 1.2.0 (2019-04-25)
+	* Allow leading underscore in function names
+	* Allow leading underscore in mixin names
+
 ## 1.1.0 (2019-03-13)
     * Add exclusion to `mixins-before-declarations`
 	* Allows exception for the `media-query` mixin
