@@ -39,6 +39,7 @@ rules:
         - 2
         -
             convention: hyphenatedlowercase
+            allow-leading-underscore: true
     mixin-name-format:
         - 2
         -
