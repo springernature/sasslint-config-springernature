@@ -44,6 +44,7 @@ rules:
         - 2
         -
             convention: hyphenatedlowercase
+            allow-leading-underscore: true
 
     # Rules
     no-empty-rulesets: 2
