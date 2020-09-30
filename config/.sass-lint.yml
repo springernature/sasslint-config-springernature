@@ -2,6 +2,9 @@ options:
     merge-default-rules: false
 files:
     include: 'styles/**/*.s+(a|c)ss'
+    ignore:
+        - 'node_modules/**/*.scss'
+        - 'toolkits/**/packages/**/node_modules/**/*.scss'
 rules:
     # Formatting
     space-after-comma: 2
