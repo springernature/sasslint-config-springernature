@@ -1,5 +1,8 @@
 # History
 
+## 1.2.1 (2020-09-30)
+	* BUG: now ignore node_modules folders
+
 ## 1.2.0 (2019-04-25)
 	* Allow leading underscore in function names
 	* Allow leading underscore in mixin names
